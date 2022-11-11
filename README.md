@@ -1,1 +1,1 @@
-# GuizGame
+# QuizGame
